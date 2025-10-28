@@ -43,8 +43,9 @@ Usage
 
 Run the program directly from your terminal:
 
-``bash
+```bash
 python quantum_random_number.py
+```
 
 Why Randomness in Quantum Mechanics?
 
