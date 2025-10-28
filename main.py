@@ -38,9 +38,8 @@ def generate_random_number(num_bits):
     random_number = int(bitstring, 2)
     return bitstring, random_number
 
-
 if __name__ == "__main__":
-    num_bits = 8
+    num_bits = 16  # You can change this value to generate random numbers of different bit lengths
     bitstring, random_number = generate_random_number(num_bits)
     print(f"Generated random bitstring: {bitstring}")
     print(f"Generated random number: {random_number}")
