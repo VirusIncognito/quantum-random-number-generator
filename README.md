@@ -38,6 +38,7 @@ Before running, make sure you have the following installed:
 
 ```bash
 pip install qiskit qiskit-aer
+```
 
 Usage
 
